@@ -1,0 +1,51 @@
+<@!DISCORD ID HERE>
+Eli Griffiths
+He/They
+Apollo
+Greek
+https://media.discordapp.net/attachments/823251505879580712/944053899336220712/eli.png
+0
+1
+3
+4
+Trickster
+Prowess 0
+Mettle 0
+Awe 1
+Judgeent -1
+Wyrd 3
+Godlikes
+Items
+Epic Wepaon Description: Always good to keep a weapon at your side, like this trusty dagger! *uses prestidigidation to make it sparkle*
+Prestidigitation Description: Imagining this a bit like the cantrip prestidigitation & minor illusion. Helps add some pizazz and sneakiness.
+Animal Form Description: Raven hehe
+Moves
+Larceny
+Take +1 when rolling PERFORM UNDER PRESSURE to sneak, pick locks, or generally get away with something you shouldn't be doing. GIFTED: If you have Prestidigitation, roll with Wyrd instead of the +1
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Takes One To Know One
+Roll Wyrd instead of Judgement to PIERCE THE VEIL with a person
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+What's That Over There
+You may use Awe instead of Prowess to SMITE YOUR ENEMIES, but you can't choose Exchange Harm if you do.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Conditions
+TangleTable
+Liz 1
+Tangles
+Liz's manner is a complete mystery to you
+You just can't resist pushing Frankie's buttons
+Backstory
+Backstory BeginText Mortal dad met immortal dad in 1998 at Glastonbury music festival during the Friday headliner like true music nerds and thus was born one Eli Griffiths. Since then, the family of two immigrated to the Glastonbury-less US of A where Eli finished his education and attended camp. He was decisively less sad than his dad about the dwindling population of music festivals on this land mass. Instead, Eli embraced the way he could get away with doing things he really shouldn't with the help of a little prestidigitation, a silver tongue, and a British accent. If only any one of those three could get rid of his stubborn bed hair and his obnoxious denial of all emotional connections.
+Description
+Appearance: BeginText yes
+E0F

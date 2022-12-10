@@ -1,0 +1,130 @@
+Celestial
+The Celestial is the huntress, the investigator, the one peeking behind the velvet curtains. Your destiny lies in the heavens. Whether that means the stars, the moon, the planets, or the sun, you make your rounds looking for anything out of place. Your view from on high also gives insights into the future and the true nature of the people around you. Secrets beware: The Celestial is watching.
+Oracle
+The stars align as every strand spools out before you. Step calmly through the mayhem, predicting every twitch and gust of wind to set things back on the course you've determiend is correct. All this has happened before, and will happen again, but this time you're in control
+Roll 0 0 0
+EndOutcomes
+Choices Consequences
+Consequences
+13+ on PIERCE THE VEIL deals 1 Harm
+Reduce max Harm to 6 boxes
+Move Harm penalty to 3 Harm
+Reduce your lowest attribute by one
+Take Fate's Disfavor to SWAY mortals
+EndMove
+One Step Beyond
+While you are dead, the veil is truly torn back from your sense. Your shade in the mortal world treats a PIECE THE VEIL 6- as a 7-9, and a 7-9 as a 10+. You may also ask an additional question from the list.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Prowess -1
+Mettle 0
+Awe 1
+Judgement 2
+Wyrd 0
+Items
+Animal Companion (2 Harm) Description: None
+Cloak of Wisdom Description: None
+Divine Presence Description: None
+Epic Armor Description: None
+Epic Ranged Weapon Description: None
+Epic Steed Description: None
+Third Eye Description: None
+Psychometry Description: None
+Soundless Movement Description: None
+Moves
+Black Hole Stun
+Roll 2d6 + Awe to overwhelm a mortal's mind with the infinite vastness of the stellar background, assuring honest answers to your questions. After they answer your questions they'll most likely pass out. GIFTED: If you have Divine Presence, on a hit, ask an extra question
+Roll 2 6 Awe
+10+ You can ask any two questions
+7-9 You can ask any one question
+6-  They either pass out or run for their life, as far as they can go
+EndOutcomes
+Choices
+EndMove
+Eclipse
+When you remain still you fade from mortal perception. People can even bump into you and not notice, until you make your move.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Fight Smarter
+You may use judgement instead of Prowess when rolling SMITE YOUR ENEMIES, but may not pick Protect Yourself or Crush Them from the SMITE options
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Longview
+You are able to look across vast distances with perfect clarity assuming nothing is blocking your line of sight. SPINDLE: If you look out from the Spindle, you are able to see and hear through the senses of anyone in your Weave, wherever they are, if they allow it.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+One Shot
+When attacking someone you know to have committed a morally repugnant crime, you don't miss. Curve the bullet, bank your arrow, whatever it takes. Roll to SMITE YOUR ENEMIES but treat a 6- as a 7-9 result. GIFTED: If you have an Epic Ranged Weapon you may choose to restrain the target instead of Exchanging Harm
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Read the Stars
+Take a +1 on all PIERCE THE VEIL rolls. GIFTED: If you have Third Eye, roll with Fate's Favor instead of the +1
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Tracker
+Roll 2d6 + Judgement when you divine someone's movements through the signs and portents. If you have something important to the quarry, take a +1 to your roll. GIFTED: If you have an Animal Companion it can track while you're doing something else
+Roll 2 6 Judgement
+10+ You see into the near future and know where they'll be in an hour
+7-9 You know where they are right now, and where they've been recently
+6-  You get a vague idea of where they've been recently, but it'll take some old fashioned legwork to find out more
+EndOutcomes
+Choices
+EndMove
+Trusted Advisor
+Give an additional +1 if you're able to PROVIDE AID through ideas or insight instead of physical actions. GIFTED: If you have a Cloak of Wisdom roll PROVIDE AID with Fate's Favor
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Oracle
+Describe what you want to see in the near future or recent past, and roll 2d6 + Judgement
+Roll 2 6 Judgement
+10+ The vision is mostly clear, and gives insightful direction. Take a +1 ongoing when following the signs
+7-9 The portents are muddy but the general idea is clear. Take +1 forward on the next part of your plan
+6-  You still receive some direction but the Herald should litter it with confusion and dread
+EndOutcomes
+Choices
+EndMove
+Tangles
+[     ] has seen you at your worst, disheveled and confused
+You've seen a dark future thread tangled around [     ]
+You were wrong about [    ] and you can't figure out why
+You ache for [      ] but have seen what will happen if you reveal your true feelings
+You know the secret [     ] keeps in their heart
+Someone in [      ]'s pantheon is plotting against them, but you don't know all the details
+Advancements
+2 Take +1 Prowess (max +1)
+2 Take +1 Mettle (max +2)
+2 Take +1 Awe (max +2)
+1 Take +1 Judgement (max +3)
+2 Take +1 Wyrd (max +2)
+1 Choose a new Gift from any playbook
+1 Take another move from your playbook
+1 Take another move from your playbook
+1 Take a move from another playbook
+1 Take a move from another playbook
+1 Add a Once Per Session thread from an unused playbook
+FurtherAdvancements
+1 Take +1 Judgement (max +4)
+1 Erase one check mark on your Ascendance Move, but not the Consequence
+1 Change your playbook to a new one, keeping Gifts, and replacing moves 1-for-1
+1 Advance three basic moves to Godlike status
+1 Advance the other two basic moves to Godlike status
+GainAThread
+Reveal the Truth
+Track someone down
+Present a new perspective
+Pass judgement on someone
+E0F

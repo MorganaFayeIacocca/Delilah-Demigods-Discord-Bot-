@@ -1,0 +1,174 @@
+Artisan
+The Golden Fleece, Mjolnir, and the Chandrahas are all divine creations made for the gods, but it was the Artisan among them who crafted such wonders. You are the one who shapes the threads of Fate into works of art, weapons, armor, and device suseful to you, your Weave, and your Pantheon. Stand back, eye protection on: it's time to craft.
+Architect
+The architecture of reality slides together and everything finally makes sense. Change something about an object. Something big or small, but the object will never be the same. Describe how. Alternatively, this can instantly craft and Epic Item out of nothing.
+Roll 0 0 0
+EndOutcomes
+Choices Consequences
+Consequences
+Devices get weird around you
+Reduce max Harm to 6 boxes
+Move Harm penalty to 3 Harm
+Reduce your lowest attribute by one
+Take Fate's Disfavor to SWAY mortals
+EndMove
+Haunted Doll
+While you are dead, your shade in the mortal world inhabits an object or device belonging to one of your Weave, like their cell phone, car, sword, or armor. Roll PROVIDE AID to enhance its use while inhabiting it
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Prowess 1
+Mettle 1
+Awe -1
+Judgement 0
+Wyrd 0
+Items
+Alchemical Texts Description: None
+Automaton (harmless) Description: None
+Bottomless Bag Description: None
+Divine Intellect Description: None
+Epic Armor Description: None
+Epic Steed Description: None
+Epic Tools Description: None
+Epic Weapon Description: None
+Unquenchable Flame Description: None
+Moves
+Assistant
+You have a mortal assistant who is aware of the supernatural. Name and describe them, If they die or move on from your service, cross this out and take an advancement. GIFTED: If you have an Automaton, it can also be your assistant, a tireless, self-aware machine.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Brew Master
+You carry 3 Stock. Spend Stock to brew a potion in a few minutes. It must be consumed right away, and is single dose. No sharesies, sorry. Spend Stock to heal that much Harm, or brew a potion like the ones below. Effects last for the scene. GIFTED: If you have Alchemical Texts you can carry 5 Stock with you.
+Roll 2 6 Judgement
+10+ Refresh 3 Stock
+7-9 Refresh 2 Stock OR take 1 Harm, ignoring armor, to refresh 3 Stock
+6-  Take 0 to 3 Harm and refresh that amount of stock 
+EndOutcomes
+Choices 1-Stock 2-Stock 3-Stock
+1-Stock
+Acute Senses
+Learn Language
+Anti-Venom
+2-Stock
+Invisibility
+Epic Vaccine
+Fly/Swim/Climb
+3-Stock
+Doppleganger
+Fly/Swim/Climb
+Breathe Water
+EndMove
+By My Own Hand
+When you SMITE with an Epic Weapon that you made, you can use Mettle instead of Prowess. If you do, you must choose Exchange Harm.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Crafty
+When you modify a device, describe what it should do by picking 2 Features and 2 Bugs from the lists below. When the device has been defined roll 2d6 + Mettle. GIFTED: If you have an Epic Tool for the job roll with Fate's Favor
+Roll 2 6 Mettle
+10+ Keep 2 Features and no Bugs
+7-9 Keep 1 Features and 1 Bug
+6-  Keep 2 Bugs, no features, and then duck!
+EndOutcomes
+Choices Features Bugs
+Features
+Autonomous
+Disorienting
+Distracting
+Harmful
+Long Range
+Restraining
+Bugs
+Collateral Damage
+Loud
+Messy
+Hand Held
+Inaccurate
+Needs Fuel
+Vampiric
+EndMove
+Deus Ex Machina
+Roll 2d6 + Judgement when you touch a device to project your will into it. On a hit, you can control it. You remain in a trance until you withdraw or can't touch the device. GIFTED: If you have Divine Intellect, you retain consciousness while inhabiting the object
+Roll 2 6 Judgement
+10+ Take +1 ongoing to use the object while inhabiting it
+7-9 You can use the object as if an expert were operating it
+EndOutcomes
+Choices
+EndMove
+Driver
+Vehicles speak to you. They are their deepest hopes and dreams, and you make them reality. You roll with Fate's Favor to pilot any vehicle from chariot to space shuttle. (Perform under pressure)
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Mentor
+Someone helped you get this far. Note their area of expertise (magic, artifacts, monsters, etc.) If they die, or you move beyond needing their help, cross out this move and take an advancement
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Workshop
+You have a work space specific to the types of things you know how to make. Describe its attributes. GIFTED: If you have a Bottomless Bag, check "mobile workshop" for free. Step into the bag to access your workshop. SPINDLE: If your Workshop is part of the Spindle, choose an additional facility and hindrance. Explain why the events of your binding caused this. 
+Roll 0 0 0
+EndOutcomes
+Choices Facilities Hindrances
+Facilities
+Alcehmical Resupply
+Fine Tools
+Heavy Tools
+Hidden
+Mobile
+High Tech Tools
+Vast Library
+Hindrances
+Dangerous to use
+Expensive fuel
+Disorganized space
+Hunted
+Hard to get to
+Supernatural clients show up
+EndMove
+Zoom and Enhance
+Roll 2d6 + Mettle to improve any device someone else is using for the scene
+Roll 2 6 Mettle
+10+ They get a +1 ongoing using it for the scene
+7-9 They get a +1 forward the next time they use the item
+EndOutcomes
+Choices
+EndMove
+Tangles
+You made an Epic Item for [    ] and they owe you
+[   ] relies on your expertise and you have a mutual respect
+You're head over heels for [   ] but you don't think they know
+If [    ] drags you to another party, you're going to scream
+You and [    ] are on a hunt for a rare material of some kind
+You confided a deep secret in [    ]. Will they keep it?
+Advancements
+2 Take +1 Prowess (max +2)
+1 Take +1 Mettle (max +3)
+2 Take +1 Awe (max +1)
+2 Take +1 Judgement (max +2)
+2 Take +1 Wyrd (max +2)
+1 Choose a new Gift from your playbook
+1 Choose a new Gift from any playbook
+1 Take another move from your playbook
+1 Take another move from your playbook
+1 Take a move from another playbook
+1 Take a move from another playbook
+1 Add another facility to your Workshop
+FurtherAdvancements
+1 Take +1 Mettle (max +4)
+1 Remove a Hindrance from your Workshop
+1 change your playbook to a new one, keeping gifts, and replacing moves 1-for-1
+1 Advance three basic moves to Godlike status
+1 Advance the other two basic moves to Godlike status
+GainAThread
+Fail a roll
+Make something cool
+Explain how a device works
+Break something you shouldn't
+E0F

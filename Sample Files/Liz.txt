@@ -1,0 +1,80 @@
+<@!DISCORD ID HERE> <@DISCORD ID HERE>
+Lisandro (Liz) Villalobos
+He/They
+Poseidon
+Greek
+https://media.discordapp.net/attachments/823251505879580712/828358737546706995/download20210400141640.png
+0
+0
+4
+3
+Elemental
+Prowess 2
+Mettle 1
+Awe 1
+Judgement 1
+Wyrd 1
+Godlikes
+Items
+Produce Element Description: Liz is able to produce fresh, potable or sea water on command.
+Epic Weapon Description: Liz has a dagger that is shaped from whale bone. Affects Swipe Left: GIFTED
+Take A Move From The Warrior's Playbook Description: Liz took the move "Iron Heart" from the Warrior's playbook.
+Elemental Familiar: A Water Slime Description: 
+Moves
+Safe Passage Known
+You can travel safely through your element. You can go any distance as long as your element is uninterrupted. If it's just you, you don't need to roll. Roll 2d6 + Mettle to bring your friends. GIFTED: If you have an Epic Steed, roll with Fate's Favor. SPINDLE: If you leave from the Spindle, it is always considered to be connected to a nearby source of your element.
+Roll 2 6 Mettle
+10+ You get everyone there, no problem
+7-9 Everyone but you takes 1 Harm, but you all get there
+6-  You arrive stunned for a moment, and all of you take 2 Harm, ignoring armor
+EndOutcomes
+Choices
+EndMove
+Safe Passage Unknown
+You can travel safely through your element. You can go any distance as long as your element is uninterrupted. But you don't know exactly where you're going. Roll 2d6 + Mettle to try to find your target. GIFTED: If you have an Epic Steed, roll with +1 Advance. SPINDLE: If you leave from the Spindle, it is always considered to be connected to a nearby source of your element.
+Roll 2 6 Mettle
+10+ You get everyone there, no problem, but it takes a couple hours
+7-9 You mostly find your way, but get a little lost. You are within 50 miles of your intended destination. From the exhaustion of travel, everyone takes 1 Harm.
+6-  You really struggle to find where you wanted to go. Eventually, you give up, and return to where you started. From the exhaustion of travel, everyone takes 1 Harm, ignoring armor. 
+EndOutcomes
+Choices
+EndMove
+Swipe Left
+Roll 2d6 + Prowess to fling a small group of enemies out of your way. Collateral damage isn't just a philosophy, it's a way of life! GIFTED: If you have an Epic Weapon, you may choose one option from SMITE YOUR ENEMIES
+Roll 2 6 Prowess
+10+ Deal 2 Harm to everyone in the group, knocking them prone
+7-9 You knock them prone but they're unharmed
+EndOutcomes
+Choices
+EndMove
+Rub Some Dirt On It
+Roll 2d6 + Mettle to bind up wounds. Cauterize it, wash it, seal it with dirt - whatever works for you, then tell them to walk it off. GIFTED: If you have Produce Element you can heal all nearby Weave members
+Roll 2 6 Mettle
+10+ Two people each heal 2 Harm
+7-9 Two people each heal 1 Harm
+EndOutcomes
+Choices
+EndMove
+Iron Heart
+You have 2 additional Harm boxes at the front of your Harm track. Always mark these boxes first. You can take 5 Harm before taking -1 to all rolls. If you get to 9 Harm you die as usual. GIFTED: If you have an Epic Shield you can choose to lose the shield for the rest of this fight (you'll find it later) to ignore all of the Harm from one attack
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Conditions
+TangleTable
+Kat 2
+Cress 1
+Melissa 1
+Jor 1
+Tangles
+You are fascinated by Kat’s charismatic way with people. Liz was jealous of how trusting Jor was of Kat, even though they understand why Jor would not trust him. (It was an accident :( pwease be fwiend)
+You had a fling with Kat but were confused when things got complicated afterward. Lasted 3-4 weeks, Liz was overeager (once again) and Kat was not into it. Liz wasn't heartbroken or anything but is definitely cautious around Kat's feelings. Kat has moved on (but would be open for something to happen again), let's fucking gooooooooooo
+You've tussled with Cress and respect their abilities. Cress called a Duel to the Death with Liz and even though Liz at first did not want to, they end up getting into it and Aelynn and Kat have to pull them apart.
+You were wrong about Jor and you can’t figure out why. Liz got bad vibes but everyone thinks they’re a good guy so Liz must be wrong, dang.
+Backstory
+Were you informed by your divine parent, or a messenger of some kind? BeginText After a really horribly overstimulating day, Liz goes out to the beach to surf on a red flag day, wanting to be overwhelmed by the waves rather than the world around him. He is able to ride a couple of large waves but his body tires quickly since his mind is tired and he gets ripped out into the tide. He fights to get to the shore and the moment he thinks he's not going to make it, he feels the current/something take him to shore. As he reaches there, a voice or a merman tells him that he has been chosen by Posedion to carry on his plan on earth. After that, Liz is not really connected to his adopted father and/or speaks to him much. He appreciates that he saved his life but wasn't really informed of what this dude wants from him or what his plan is.
+Describe your mortal family: BeginText Mom and dad are also autistic or adhd, they work in something technical but are hippie in spirit. Little sister, young teen/tween. Family is supportive but due to neurodivergencies and stuff, is not the best at communicating so it's a little dysfunctional.
+Description
+Appearance: BeginText tanned latino with typical sun bleached blond surfer hair (which happened to him after his anointment - his family thinks he's regularly bleaching it since it never fades), his top surgery scars are "covered" by tattoos that look like waves across his chest, maybe some facial hair??? Unsure tho. Lean but muscular, he got shoulder muscles for days tho due to swimming and surfing.
+E0F

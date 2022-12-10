@@ -1,0 +1,140 @@
+Verdant
+The Verdant in every pantheon is the erason things grow. you are the steward of fertility, vitality, and life. As an avatar of nature, your very substance is able to grow and change as needed. Whether shifting shape, talking to trees, or healing wounds, you adapt and face down any threat. Life finds a way.
+Stampede
+The living world needs you now more than ever, and you can see exactly what needs to be done. Call forth the vines and brambles, summon the hordes of animals, and reap sweet justice on those who wreak havoc on the Earth
+Roll 0 0 0
+EndOutcomes
+Choices Consequences
+Consequences
+Animals flock to you at all times
+Reduce max Harm to 6 boxes
+Move Harm penalty to 3 Harm
+Reduce your lowest attribute by one
+Take Fate's Disfavor to SWAY mortals
+EndMove
+Circle of Life
+While you are dead, your shade in the mortal world can inhabit a small, harmless animal and stay near someone in your Weave. You can talk to animals and members of your Weave in this form.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Prowess 1
+Mettle 2
+Awe -1
+Judgement 0
+Wyrd 0
+Items
+Adaptable Description: None
+Animal Companion (2 Harm) Description: None
+Divine Constitution Description: None
+Divine Senses Description: None
+Epic Armor Description: None
+Epic Steed Description: None
+Epic Weapon Description: None
+Tree Walking Description: None
+Vital Aura Description: None
+Moves
+BeastMaster
+Gain two animal companions (2 Harm) and an Epic Steed. GIFTED: If you already have an Animal Companion, one of your three pets is fully sapient and can speak your native tongue. GIFTED: If you already have an Epic Steed, you still only have one Steed, but it is sapient and can do 2 Harm
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Clever Girl
+You have a knack for tracking prey. Roll with Mettle instead of Judgement when you PIERCE THE VEIL to follow or find someone, and ask 1 extra question on a hit. GIFTED: If you have Divine Senses, they will need supernatural help to throw you off their scent
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Feast
+You can create a feast fit for the gods out of practically nothing. You just need a symbolic bit of food to get started--a few berries, a loaf of bread, or a bottle of wine, for example. Everyone who eats together will add 1 box to the front of their Harm track through the next scene, and gave Fate's Favor on their next roll involving physical strength, endurance, or agility.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Ferocious
+Fighting you up close is a serious mistake. Claws, teeth, stinger tail (where did that even come from?!), your basic attacks do 3 Harm instead of 2. GIFTED: If you have an Epic Weapon, it does 5 Harm instead of 4
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+For the Swarm
+You can summon and command a swarm of insects, rats, spiders, or small birds for the duration of the scene. Your current location will inform what type of swarm can be summoned. They can inflict 1 Harm, but their usefulness usually lies elsewhere. They will exhibit a collective intelligence, and loyalty to you.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Regrowth
+Roll 2d6+Wyrd to channel life force directly into yourself and others, accelerating their natural healing process. GIFTED: If you have Vital Aura, heal 1 additional Harm on a hit
+Roll 2 6 Wyrd
+10+ You heal 4 Harm distributed among people as you choose
+7-9 You heal 3 Harm distributed as you choose
+6-  You can choose to take 1 Harm and heal one person for 2 Harm
+EndOutcomes
+Choices
+EndMove
+Secret Garden
+You have access to a hidden green space. It's tucked away in a pocket plane of existence and is only accessible by a ritual you choose. You can get there from anywhere, and exit back to where you came in. Anyone can come and go until you close the door. SPINDLE: If your Secret Garden is part of the Spindle's location, when you exit you can either go back to where you came in, or exit to the Spindle
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Shapechanger
+You can change into animal and plant forms, melding your possessions with you. To be an unremarkable, harmless creature or plant, no roll is needed. When you want to get fancy, roll 2d6+Mettle. GIFTED: If you have Epic Armor it still applies while changed
+Roll 2 6 Mettle
+10+ Choose two options from the list. You can also change back and forth for the duration of the scene
+7-9 Choose one option from the list. You can hold the form for the duration of the scene, or until you change back, whichever comes first.
+6-  Ask the Herald to pick one
+EndOutcomes
+Choices Options HeraldOptions
+Options
+Pick an extra option when you SMITE YOUR ENEMIES
+The form deals +1 Harm
+The form has +1 armor
+Fly high or swim deep
+Move with extraordinary speed
+You're several tiny animals
+You're a swarm of insects
+HeraldOptions
+You're stuck in this form for the duration of the scene
+You take a hybrid-form for the scene (wolfman, swamp-thing, etc)
+Take 2 Harm, ignoring armor, and treat the roll like a 7-9
+EndMove
+Spies Everywhere
+When you PIERCE THE VEIL, you may direct your questions directly to the local plants and wildlife. Plants and animals are terrible conversationalists, but they will do their best with any questions they're able to answer
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Tangles
+[      ] seems oblivious to the natural world
+You've had an on-again/off-again relationship with [     ] for a while now. why isn't it working?
+You and [     ] pulled off a newsworthy bit of destructive eco-activism
+You can always count on [      ] when it's time to party
+[      ] could learn something from connecting with the wilds. Will you show them the way?
+You can't seem to wrap your head around [      ] and you're not sure you want to
+Advancements
+2 Take +1 Prowess (max +2)
+1 Take +1 Mettle (max +3)
+2 Take +1 Awe (max +1)
+2 Take +1 Judgement (max +2)
+2 Take +1 Wyrd (max +2)
+1 Choose a new Gift from any playbook
+1 Take another move from your playbook
+1 Take another move from your playbook
+1 Take a move from another playbook
+1 Take a move from another playbook
+1 Take Divine Might from the Warrior playbook
+1 Heal 1 more Harm when using Regrowth
+FurtherAdvancements
+1 Take +1 Mettle (max +4)
+1 Choose a rote form for Shapechanger. You can always change into that form as if you rolled a 10+. It will always have the same two options.
+1 Change your playbook to a new one, keeping Gifts, and replacing moves 1-for-1
+1 Advance three basic moves to Godlike status
+1 Advance the other two basic moves to Godlike status
+GainAThread
+Defend the Wilds
+Act like a plant or animal
+Talk with a plant or animal
+Share too much information
+E0F

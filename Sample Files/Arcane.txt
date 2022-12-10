@@ -1,0 +1,155 @@
+Arcane
+Witch, Wizard, Sorcerer, Mage: whatever you call yourself, you weave the imaginary into the real. You hove insight into the forces of Fate and are adept at tweaking it to your will. You search the world for A lost artifacts and delve for the understanding of what makes magic tick. No mystery is beyond your ken.
+Weaver
+The threads of Fate come together for this one inscrutable purpose. Pull on this thread, snip that frayed end, and weave it all back to your desire. You craft a spell of epic proportions, describe the outcome 
+Roll 0 0 0
+EndOutcomes
+Choices Consequences
+Consequences
+All spellcasting draws unwanted attention
+Reduce max Harm to 6 boxes
+Move Harm penalty to 3 harm
+Reduce your lowest attribute by one
+Take Fat's Disfavor to SWAY Mortals
+EndMove
+A Frayed Knot 
+While you are dead, your shade in the mortal world disperses among your Weave. Your consciousness is present with every member at the same time, over any distance. You can pass messages at will.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Prowess 0
+Mettle -1
+Awe 0
+Judgement 1
+Wyrd 2
+Items
+Animal Form (harmless) Description: None
+Divine Intellect Description: None
+Epic Armor Description: None
+Epic Steed Description: None
+Epic Weapon Description: None
+Familiar (harmless) Description: None
+Ritual Spellbook Description: None
+Secret Society Membership Description: None
+Take another move from your playbook Description: None
+Moves
+Spellcasting
+When you cast a spell, describe what it should do using the Effects you want and the Costs you're willing to take. Roll 2d6+Wyrd to cast the spell. 
+Roll 2 6 Wyrd
+10+ Pick 2 Effects and 1 Cost
+7-9 Pick 1 Effect and 1 Cost
+6-  Pick 2 Costs and the Herald will fill in the rest. (spoiler: it's bad)
+EndOutcomes
+Choices Effects Costs
+Effects
+Cast the spell instantly
+Communicate impossibly
+Hide something
+Inflict 2 Harm
+Inflict 1 Harm to a small group
+Restrict Movement
+Reveal a Secret
+Costs
+Casting takes longer than usual
+Deal 1 Harm to an ally, ignoring armor
+Draw unwanted attention
+Take 2 Harm, ignoring armor
+Inflict collateral damage
+The spell ends earlier than expected
+Something is hidden from you
+EndMove
+Cantrips
+You've mastered several basic spells that require little to no effort on your part. Pick three harmless spells you've practiced to perfection. They don't require rolls. GIFTED: If you have a Familiar, it can cast your cantrips
+Roll 0 0 0
+EndOutcomes
+Choices Facilities
+Facilities
+Close-up magic
+Distract
+Empathize
+Illuminate or extinguish
+Move small objects
+Lock or unlock
+Other
+EndMove
+Counterspell
+Roll 2d6+Judgement to dispell ongoing magical effects. GIFTED: if you have Divine Intellect, roll with Fate's Favor.
+Roll 2 6 Judgement
+10+ The effect dissolves and you understand it well enough to rebuild it
+7-9 The effect is shut down for the scene but will reactivate eventually
+6-  You believe the effect has been dispelled. It has not.
+EndOutcomes
+Choices
+EndMove
+Esoteric Etcetera
+You know things. Secret things. Dangerous things. When you PIERCE THE VEIL about something truly obsucre take a +1 to the roll. GIFTED: If you have Secret Society Membership, roll with Fate's Favor instead of the +1
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMoves
+Portal
+Open a noisy gateway to a familiar, stationary, safe place on the mortal plane. It takes about a m inute to open and will collapse after another minute. If you go somewhere unfamiliar, in motion, or dangerous, roll 2d6 + Wyrd. GIFTED: If you have a Ritual Spellbook, take +1 on Portal Rolls
+Roll 2 6 Wyrd
+10+ Your portal is precise and you can see through to the other side
+7-9 The portal is conneted but you can't see the other side
+6-  You're in for a treat. It goes somewhere fun an unexpected!
+EndOutcomes
+Choices
+EndMove
+Sanctum
+You have a safe, secure, isolated place to work your mystical arts. You, your collection of oddities, and the people you allow in are untraceable while inside. SPINDLE: If your sanctum is part of the Spindle, it has unique insights about the events of your Binding.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Shields Up
+When you spend a thread to reduce harm, you may reflect it back at the source of that Harm. GIFTED: If you have Epic Armor, you can reflect that damage to any target, not just the source.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Rosetta Stone
+When you observe a language for a few minutes you can pick it up flawlessly. This goes for sign language, dialects, and nearly any kind of written communication
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+The Voice
+You may use Wyrd instead of Awe to SWAY SOMEONE, but if you do they will eventually realize that you manipulated them and will remember that
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Tangles
+[    ] doesn't get what you do, but at least they're pretty
+You have a grudging respect for [   ]'s skills
+You've fought the supernatural shoulder to shoulder with [    ]  and trust them explicitly
+Your pride has kept you from telling [   ] your true feelings
+[    ] knows the dark secret you keep locked away
+You accidentally injured [    ] with your magic but they don't know it was your fault
+Advancements
+2 Take +1 Prowess (max +2)
+2 Take +1 Mettle (max +1)
+2 Take +1 Awe (max +2)
+2 Take +1 Judgement (max +2)
+1 Take +1 Wyrd (max +3)
+1 Choose a new Gift from any playbook
+1 Take the Workshop from the Artisan playbook
+1 Take another move from your playbook
+1 Take another move from your playbook
+1 Take a move from another playbook
+1 Open a door to your Sanctum from any doorway
+FurtherAdvancements
+1 Take +1 Wyrd (max +4)
+1 Learn 3 More Cantrips
+1 10+ on Spellcasting no longer requires a Cost
+1 Change your playbook to a new one, keeping Gifts, and replacing moves 1-for-1
+1 Advance 3 basic moves to Godlike status
+1 Advance the other two basic moves to godlike status
+GainAThread
+Cast A Spell
+Investigate a mystery
+Chastise recklessness
+Explain how magic works
+E0F

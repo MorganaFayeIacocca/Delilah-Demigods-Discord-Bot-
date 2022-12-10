@@ -1,0 +1,42 @@
+Owner of Character
+Character Name
+Pronouns
+Parent
+Pantheon
+Art Link
+Armor
+Harm
+Attack
+Thread
+Playbook Name
+Prowess {}
+Mettle {}
+Awe {}
+Judgeent {}
+Wyrd {}
+Godlikes
+ -- name of basic moves, all caps
+Items
+[Item Name] Description: [description]
+{repeated || however many items there are}
+Moves
+[Move Name]
+[Move Description]
+Roll {count} {sides} {standard modifier name}
+[Value Bounds] [Outcome description] {repeated || for all outcomes}
+EndOutcomes
+Choices [name of choice group 1] {repeat => for all choice groups}
+[name of choice group 1]
+[choice] {repeated || for each choice}
+[name of choice group 2]
+[choice] {repeated || for each choice}
+EndMove
+Conditions
+[Condition name] {repeated || for each condition}
+Tangles
+[Tangle description] {repeated || for each condition}
+Backstory
+[Piece title] [piece description] {repeated || for each condition}
+Description
+[piece title] [piece description] {repeated || for each condition}
+E0F

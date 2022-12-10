@@ -1,0 +1,138 @@
+Reaper
+No one understands death and dying the way you do. A Reaper is not a killer though--your job starts after the killing is done. You're a guide for those who are ready to pass beyond this world. You've been consumed with thoughts of the dead for as long as you can remember, either as morbid fascination, or with a lust for life that fuels endless revelry. Whether they fear you or not, death comes for everyone in the end
+Harbinger
+You are become Death, immortal chooser of the slain. For this moment, you are impervious to Harm. Wade through the mayhem and raise fallen allies to live again. This party isn't over until you say it's over
+Roll 0 0 0
+EndOutcomes
+Choices Consequences
+Consequences
+You see spirits of the dead all the time
+Reduce max Harm to 6 boxes
+Move Harm penalty to 3 Harm
+Reduce your lowest attribute by one
+Take Fate's Disfavor to SWAY mortals
+EndMove
+On a Pale Horse
+While you are dead, your shade in the mortal world is able to phase between corporeal and incorporeal states. You cannot use any of your moves or gifts, but you are physically present with your Weave and must remain with at least one of them at all times.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Prowess 0
+Mettle -1
+Awe 1
+Judgement 2
+Wyrd 0
+Items
+Animal Form (harmless) Description: None
+Aura of Dread Description: None
+Book of the Dead Description: None
+Cloak of Obscurement Description: None
+Epic Armor Description: None
+Epic Steed Description: None
+Epic Weapon Description: None
+Mostly Dead Description: None
+Take a Move from the Muse Playbook Description: None
+Moves
+Ask Questions Later
+Roll 2d6+Awe to ask a dead person a question. You may not call on the same person twice. This works best if you have the person's body, but if you need to do it by remote (if they're long dead, for isntance) roll with Fate's Disfavor. GIFTED: If you are Mostly Dead, you treat a 7-9 as a 10+
+Roll 2 6 Awe
+10+ You may ask them 2 questions
+7-9 You may ask 1 question
+6-  You make take 1 Harm to ask 1 question, or choose to let it go
+EndOutcomes
+Choices
+EndMove
+Best of Seven
+You are able to challenge anyone to a contest of skill that can't rely entirely on luck. Set terms (to the death, wagers, etc), and if they agree, you will both be held to the contest. Never go in against a Reaper when death is on the line
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+In The Balance
+Ask an injured person for a trade: a drink, a kiss, or a prayer, or something else. If they accept, roll 2d6+Awe. SPINDLE: If you offer and complete the trade at the Spindle, they heal 2 more Harm
+Roll 2 6 Awe
+10+ They heal 3 Harm
+7-9 They heal 3 Harm and you take 1 Harm, ignoring armor
+6-  They heal 2 Harm and you take 1 Harm, ignoring armor
+EndOutcomes
+Choices
+EndMove
+Lust for Life
+You're the kind of Reaper who turns peoples' dread of death into appreciation for the time they have left. Anyone joining you for a drink, smoke, or some other celebration will heal 1 Harm during your first toast. If they give you a gift (a drink, a promise, food--you decide if it's something you want) they heal 2 Harm instead. GIFTED: If you have Aura of Dread, you can switch it to Celebration or Dread at will. 
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Part the Veil
+It's easy for you to send the recently departed off to their appropriate afterlives, but this move lets you visit any belief system's land of the dead, whenever you like. This just works if you're alone. If you'[re bringing friends, roll 2d6+Wyrd
+Roll 2 6 Wyrd
+10+ You and your friends wind up at the entrance together
+7-9 Choose from 7-9 list
+6-  Brace yourself. This handbasket is way off course
+EndOutcomes
+Choices 7-9
+7-9
+You're separated from your Weave
+You're all in the wrong underworld
+You just alerted half the underworld to your arrival
+EndMove
+What Has Been
+Roll 2d6+Judgement to determine someone's guilt on a specific matter, or their deepest regret. Make your accusation and weigh their soul. GIFTED: If you have a Book of the Dead, you will also have a clear idea of the best way to help this person clear their conscience
+Roll 2 6 Judgement
+10+ You know if they are guilty of the accusation made
+7-9 You get a sense of their guilt, but nothing specific
+EndOutcomes
+Choices
+EndMove
+What Will Be
+Stun a small group as their lives flash before their eyes. Roll 2d6 + Judgement. GIFTED: If you are in Animal Form, the weak-minded are likely to flee from your presence
+Roll 2 6 Judgement
+10+ The group is stunned for the scene, pondering their own mortality, unless someone interferes with them
+7-9 The group is stunned until interfered with, or a minute passes
+EndOutcomes
+Choices
+EndMove
+Whirlwind
+You may choose to roll with Judgement instead of Prowess to SMITE YOUR ENEMIES, however, this will incur collateral damage, and you can't select the Protect Yourself option
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+You See Dead People
+Everywhere you go, the spirits of those who haven't moved on are visible to you. Wheny ou PIERCE THE VEIL you may direct your questions directly to any spirits present
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Tangles
+You had a vision of [    ]'s death. Describe how, but not where or when
+You escorted [     ]'s family member to their afterlife
+You bartered with another Reaper for [     ]'s life and won. How did they die that time?
+You and [      ] have thrown some epic parties together
+[      ] ignored your premonition and has the scars to prove it
+You have feelings for [       ] but haven't made your move yet
+Advancements
+2 Take +1 Prowess (max +2)
+2 Take +1 Mettle (max +1)
+2 Take +1 Awe (max +2)
+1 Take +1 Judgement (max +3)
+2 Take +1 Wyrd (max +2)
+1 Choose a new Gift from any playbook
+1 Take another move from your playbook
+1 Take another move from your playbook
+1 Take a move from another playbook
+1 Take a move from another playbook
+1 If you have an Animal Form, it can do 2 Harm now
+FurtherAdvancements
+1 Take +1 Judgement (max +4)
+1 Gain the Boatman's Bribe. Spend it to bring back someone who just died, and erase the mark. You can retake this Gift, as long as it's unmarked
+1 Change your playbook to a new one, keeping Gifts, and replacing moves 1-for-1
+1 Advance three basic moves to Godlike status
+1 Advance the other two basic moves to Godlike status
+GainAThread
+Save a Life
+Throw a Party
+Make morbid remarks
+Erase someone's suffering
+E0F

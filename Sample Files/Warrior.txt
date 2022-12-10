@@ -1,0 +1,136 @@
+Warrior
+A Warrior is often many other things as well: a poet, a chef, a parent, or a teacher to name just a few. While always a last resort, in your heart of hearts you know that sometimes violence is the best solution, and you're the one prepared to carry it out. Your response will bne tactical, thoughtful, and crushingly victorious.
+Grandmaster
+Like a chess master, every aspect and strategy of the battlefield unfolds before you and you reveal the plan you had the whole time. You turn the tide of the battle and win the day. Describe how.
+Roll 0 0 0
+EndOutcomes
+Choices Consequences
+Consequences
+Become obsessed with preparedness
+Reduce max Harm to 6 boxes
+Move Harm penalty to 3 Harm
+Reduce your lowest attribute by one
+Take Fate's Disfavor to SWAY mortals
+EndMove
+Perfect Host
+While you are dead, your shade in the mortal world is able to lend its prowess to members of your Weave. With a successful PROVIDE AID roll, you may add your Prowess stat to someone else's for the rest of that fight, with the standard maximum of +4 to any single roll
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Prowess 2
+Mettle 0
+Awe 1
+Judgement 0
+Wyrd -1
+Items
+Divine Might Description: None
+Epic Armor Description: None
+Epic Melee Weapon Description: None
+Epic Ranged Weapon Description: None
+Epic Shield Description: None
+Epic Steed Description: None
+Pantheon Royalty Description: None
+Sigil of Command Description: None
+Take a Move from the Artisan playbook Description: None
+Moves
+Intimidation
+When you wield fear to your advantage, roll with Prowess instead of Awe to SWAY SOMEONE, but don't expect to be best buddies after that. GIFTED: If you have a Sigil of Command take an additional +1 to SWAY SOMEONE
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Iron Heart
+You have 2 additional Harm boxes at the front of your Harm track. Always mark these boxes first. You can take 5 Harm before taking -1 to all rolls. If you get to 9 Harm you die as usual. GIFTED: If you have an Epic Shield you can choose to lose the shield for the rest of this fight (you'll find it later) to ignore all of the Harm from one attack
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Polyarmory
+Nearly anything is a deadly weapon in your hands. An oar, a playing card, a sturdy towel--you name it and its dangerous. The object you pick up won't last long for how you're using it, but it'll go out in a blaze of glory and you can grab something new. Deal 3 Harm with almost any physical object. GIFTED: If you have Epic Weapon (Melee for up close or Ranged for thrown objects) anything you pick up will deal 4 Harm
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Practical Tactical Brilliance
+If there's an art to war, then the battlefield is your canvas. Let your masterpiece unfold. Roll 2d6 + Prowess to gain Holds. Spend Holds on the effects below.
+Roll 2 6 Prowess
+10+ Hold 3
+7-9 Hold 2
+6-  Hold 1 and take 1 Harm (ignoring armor), or Hold none
+EndOutcomes
+Choices Holds
+Holds
+Take 1 Harm in place of a nearby Weave member
+Add +2 to a Weave member's SMITE roll
+You or a Weave member picks an additional option from a SMITE roll, even on a 6-
+EndMove
+Reinforcements
+Roll 2d6+Awe to contact your pantheon and request support. It might be a unique item they have, or a small group of fighters appropriate to your mythology. GIFTED: If you are Pantheon Royalty, make this roll with Fate's Favor
+Roll 2 6 Awe
+10+ They send what you asked for, only expecting glorious victory
+7-9 They send what you asked for, but they will expect you to do something for them later
+6-  They're not mad that you asked, they're just disappointed
+EndOutcomes
+Choices
+EndMove
+To The Death
+Challenge someone to a duel. If they accept, you are mystically bound to fight one-on-one until one of you surrenders, dies, or someone interferes with the fight.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Unstoppable
+Once you start moving, few mortal barriers will stop your momentum. Usually you wont need to roll for this, unless the Herald deems the barrier exceptionally reinforced. In that case, roll 2d6+Prowess. GIFTED: If you have Divine Might, you can charge through most supernatural barriers too
+Roll 2 6 Prowess
+10+ Break on through to the other side
+7-9 You break down the barrier, but take 2 Harm, ignoring armor
+6-  Choose:: Take 2 Harm, physically and to your pride as you bounce off. OR. Take 4 Harm and blast through. In either case, the Harm ignores your armor
+EndOutcomes
+Choices
+EndMove
+War Never Changes
+You may roll with Prowess instead of Judgement when you PIERCE THE VEIL anywhere a fight took place, with a person who just fought or is about to, or an artifact used in combat.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Wreck Room
+You have a safe house, training space, armory, or something similar. Note what it is, and go there when you need to plan, lay low, or get something. SPINDLE: If this is in the Spindle, the room is intelligent and can help you train, anticipate your needs, and even give advice.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Tangles
+[      ] has real combat experience that you admire
+You find [      ]'s impulsiveness to be off-putting
+You have a friendly rivalry with [     ], always trying to one-up each other
+You shared a moment with [     ] after a harrowing battle. Are you hoping for another?
+You've never actually seen [      ] fight. Can you trust them?
+You feel yourself drawn to   [      ]. What is it about them?
+Advancements
+1 Take +1 Prowess (max +3)
+2 Take +1 Mettle (max +2)
+2 Take +1 Awe (max +2)
+2 Take +1 Judgement (max +2)
+2 Take +1 Wyrd (max +1)
+1 Choose a new Gift from any playbook
+1 Choose a new Gift from your playbook
+1 Take another move from your playbook
+1 Take another move from your playbook
+1 Take a move from another playbook
+1 Take a move from another playbook
+1 Take Divine Constitution from the Verdant Playbook
+1 Take Divine Speed from the Elemental Playbook
+FurtherAdvancements
+1 Take +1 Prowess (max +4)
+1 Gain +1 Armor
+1 Change your playbook to a new one, keeping Gifts, and replacing moves 1-for-1
+1 Advance three basic moves to Godlike status
+1 Advance the other two basic moves to Godlike status
+GainAThread
+Start a fight
+Finish a fight
+Explain a battle strategy
+Defuse a tense situation
+E0F

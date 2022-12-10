@@ -1,0 +1,26 @@
+DMs
+<@DISCORD ID HERE> <@!DISCORD ID HERE>
+<@DISCORD ID HERE> <@!DISCORD ID HERE>
+Players
+<@DISCORD ID HERE> <@!DISCORD ID HERE> Kat
+<@DISCORD ID HERE> <@!DISCORD ID HERE> Cress
+<@DISCORD ID HERE> <@!DISCORD ID HERE> Eli
+<@DISCORD ID HERE> <@!DISCORD ID HERE> Liz
+<@DISCORD ID HERE> <@!DISCORD ID HERE> Stacy
+NPC Files
+Jor
+Spindle
+The Camp
+Playbooks
+Arcane
+Artisan
+Celestial
+Elemental
+Muse
+Reaper
+Trickster
+Verdant
+Warrior
+Basic Moves
+BasicMoves
+E0F

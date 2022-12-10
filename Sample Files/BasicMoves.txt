@@ -1,0 +1,129 @@
+Smite Your Enemies
+Roll 2d6+Prowess when you step in to the fight
+Roll 2 6 Prowess
+13+ GODLIKE: Select all of the options from the list
+10+ Choose 3 from the list below, OR disarm your enemy
+7-9 Choose 1 from the list below
+EndOutcomes
+Choices SmiteOptions
+SmiteOptions
+Exchange Harm: combatants trade Harm based on their weapons
+Protect yourself: -1 Harm to you, if you Exchanged Harm
+Crush Them: +1 Harm to your enemy, if you Exchanged Harm
+Gain an advantageous position: +1 forward on your next SMITE
+Make an opening: +1 forward to an ally who follows your lead
+Take something from your enemy
+EndMove
+Perform Under Pressure
+Roll 2d6+Mettle when you do something while the heat is on. Land the plane, pick the lock, hack the mainframe. It's all you.
+Roll 2 6 Mettle
+13+ GODLIKE: You do your thing and then some. This situation is under your control and you won't need to roll again for it in this scene
+10+ You get it done, for now, no problem
+7-9 There's a complication, choose one option from the list
+EndOutcomes
+Choices Complications
+Complications
+It takes longer than it should
+Something breaks
+Take 1 Harm
+The result is only partially effective
+Your next roll is with Fate's Disfavor
+EndMove
+Bend Fate
+Roll 2d6+Wyrd when you wield the supernatural forces of Fate
+Roll 2 6 Wyrd
+13+ GODLIKE: narrate a significant change to the environment and storyline
+10+ Choose 2 boons and 1 bane
+7-9 Choose 1 boon and 1 bane
+6-  Choose 2 banes. The Fates will have their price
+EndOutcomes
+Choice Boons Banes
+Your Gift does something beyond its normal limits
+Heal 1 Harm
+Inflict 1 Harm
+Give someone else Fate's Favor or Disfavor
+Someone's supernatural ability is unusable for the scene
+Restore someone else's supernatural ability
+Banes
+One of your Gifts is unusable for the scene
+Take 1 Harm ignoring armor
+Become stunned for a few moments
+Take Fate's Disfavor on your next roll
+Something bad finds you
+EndMove
+Sway Someone
+Roll 2d6+Awe when you want to convince someone that your way is the right way. Unlocking Godlike for this move checks both boxes below. Members of your Weave may always choose to ignore your argument, reasonable or otherwise, and not gain any of the benefits above
+Roll 2 6 Awe
+13+ (FOR NPCS) Say hello to your new best friend! (FOR PCS WHO AGREE) All members of your Weave gain a thread, and take +1 ongoing while in pursuit of your plan
+10+ (FOR NPCS) They accept your reasonable argument at no cost. (FOR PCS WHO AGREE) They gain 1 Thread and +1 forward working on your plan
+7-9 (FOR NPCS) They'll do it, but they demand some kind of price. (FOR PCS WHO AGREE) They gain 1 Thread
+EndOutcomes
+Choices
+EndMove
+Pierce The Veil
+Roll 2d6+Judgement when you peer beyond the veneer of mortality
+Roll 2 6 Judgement
+13+ You may ask six (6) questions
+10+ You may ask three (3) questions
+7-9 You may ask two (2) questions
+6-  You may ask one (1) question and prepare for the worst
+EndOutcomes
+Choices Questions
+Questions
+What happened to this person, place, or thing recently?
+What is the greatest danger with this person, place, or thing?
+When was this person, place, or thing made?
+When did [      ] happen?
+Where did this person, place, or thing come from?
+Who is responsible for this person, place, or thing?
+How can I get this person, place, or thing to [      ]?
+EndMove
+Provide Aid
+Roll 2d6+Tangles when you want to help someone in your Weave accomplish a task, or avoid the Harm they just took. Describe how your character is able to assist. 
+Roll 2 6 Tangles
+10+ Choose 1 from 10+ choices
+7-9 Choose 1 from 7-9 Choices
+6-  You make it worse and are exposed to the same danger
+EndOutcomes
+Choices 10+ 7-9
+10+
+They get +2 to their roll
+They get +1 to their roll AND they gain a Thread
+You both take 1 Harm, ignoring armor, instead of the Harm they would have taken
+7-9
+They get +1 to their roll
+Split the Harm with them-- you take the extra if the Harm is odd
+EndMove
+Start Of Session
+At the start of the session, ask the player with whom you have the most Tangles to mark one of your Basic Moves. Gain a Thread the first time you fail a roll with that move, and erase the mark.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+End Of Session
+At the end of the session, pick one Tangle that feels tighter, and more important to you. If no tangle feels tighter, choose one that feels looser and less important. If a tangle was tightened, remind the group how that relationship was important in this session, and the Spindle gains a Thread. Put an X next tot he name in that Tangle. It can't be tightened again until all other Tangles have been tightened or resolved. When that happens, erase all of the X's and take an Advancement. If a Tangle was loosened, ask them whether they feel that it was resolved. If they do, erase the name and you both gain a thread
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Grievous Harm
+When you take 4 of more Harm at once (before armor), roll 2d6 + Harm (the amount after armor, not the total). Subtract armor first beause you might roll +0 and that's okay. You want to roll low. You may spend a Thread to give yourself Fate's Favor on this roll, but you may not spend a Thread to reduce any additional Harm caused by the Grievous Harm move.
+Roll 2 6 Harm
+10+ Choose one from 10+ Choices
+7-9 Choose one from 7-9 Choices
+6-  Nothing worse happens
+EndOutcomes
+Choices 10+ 7-9
+10+
+Get knocked out, or removed from the scene
+Give the Herald a Hard Move
+Take 2 more Harm, ignoring armor
+Your Gifts are unusable for the scene
+7-9
+Drop something important
+Lose your footing
+One of your Gifts is unusable for the scene
+Take 1 more Harm, ignoring armor
+Wind up in a tight spot
+EndMove
+E0F

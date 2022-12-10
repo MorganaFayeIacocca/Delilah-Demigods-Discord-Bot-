@@ -1,0 +1,134 @@
+Elemental
+The Elemental embodies a specific element and is in a constant struggle between their mortal and primordial natures. Often relating better to your element than humanity, you occasionally find yourself on the wrong end of a social interaction. Pick an element to control like Air, Earth, Fire, Water, or something else. You cannot be injured by an element you've mastered and can manipulate it in basic ways.
+Tempest
+You embody your element completely as your humanity fades to the background and you become capable of incredible feats. Become the flame, bend the wind to your will, part the waves, or shake the earth. You are the master of your domain. 
+Roll 0 0 0
+EndOutcomes
+Choices Consequences
+Consequences
+Must pick Exchange Harm when you SMITE YOUR ENEMIES
+Reduce max Harm to 6 boxes
+Move Harm penalty to 3 Harm
+Reduce your lowest attribute by one
+Take Fate's Disfavor to SWAY mortals
+EndMove
+Dead Air
+While you are dead, your shade in the mortal world can manipulate your element in annoying and occasionally useful ways. You can use PERFORM UNDER PRESSURE to affect your environment in some way.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Prowess 2
+Mettle 1
+Awe 0
+Judgement -1
+Wyrd 0
+Items
+Divine Speed Description: None
+Elemental Familiar Description: None
+Epic Armor Description: None
+Epic Shield Description: None
+Epic Steed Description: None
+Epic Weapon Description: None
+Master Another Element Description: None
+Produce Element Description: None
+Take a Move from the Warrior playbook Description: None
+Moves
+Avatar of Destruction
+You can wreathe yourself in your element but the collateral damage is a cosntant danger as everything within arm's reach is continuously pummeled. Deal 2 Harm to anything and anyone near you while you maintain the effect. Take 2 Harm to start the effect, and 2 more Harm to end it, ignoring armor in both cases.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Cataclysm
+Roll 2d6 + Wyrd to pull the world down around your ears. A column of fire, an earthquake, violent bursting pipes - you wreak havoc on everything within 10 meters of you. Collateral damage is guaranteed and you will pay a cost. GIFTED: If you have an Epic Shield, you take 1 less Harm
+Roll 2 6 Wyrd
+10+ Everyone in range takes 6 Harm. You take 2 Harm, ignoring armor
+7-9 Everyone in range takes 4 Harm. You take 2 Harm, ignoring armor
+6-  Everyone in range takes 2 Harm. You take 2 Harm, ignoring armor. Ask the Herald how the effect goes out of control
+EndOutcomes
+Choices
+EndMove
+Fire Talk With Me
+You can PIERCE THE VEIL with Fate's Favor if the subject has been in direct contact with your element. The information will be relative, however. A gust of wind can't tell you their phone number, but it might remember what they smoked, or part of a conversation
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Good With Animals
+People might confound you, but animals are nice. You can converse with animals native to your element. They're likely to do as you ask, but roll 2d6 + Mettle instead of Awe if you need to SWAY an animal native to your element
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+I, Of the Storm
+When using your element to intimidate tarke +1 to SWAY SOMEONE, but you're not likely to be friends afterward.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Rub Some Dirt On It
+Roll 2d6 + Mettle to bind up wounds. Cauterize it, wash it, seal it with dirt - whatever works for you, then tell them to walk it off. GIFTED: If you have Produce Element you can heal all nearby Weave members
+Roll 2 6 Mettle
+10+ Two people each heal 2 Harm
+7-9 Two people each heal 1 Harm
+EndOutcomes
+Choices
+EndMove
+Rush In
+Roll 2d6 + Mettle to charge your enemy, crossing the battlefield in the blink of an eye. GIFTED: If you have Divine Speed, you can inflict 2 Harm on a hit
+Roll 2 6 Mettle
+10+ Your enemy is stunned, letting the next person to SMITE them roll with Fate's Favor
+7-9 You cand your enemy are stunned from the impact. Give a +1 to the next person to SMITE them, but it can't be you
+6-  You're off target and find yourself in a tight spot
+EndOutcomes
+Choices
+EndMove
+Safe Passage
+You can travel safely through your element. You can go any distance as long as your element is uninterrupted. If it's just you, you don't need to roll. Roll 2d6 + Mettle to bring your friends. GIFTED: If you have an Epic Steed, roll with Fate's Favor. SPINDLE: If you leave from the Spindle, it is always considered to be connected to a nearby source of your element.
+Roll 2 6 Mettle
+10+ You get everyone there, no problem
+7-9 Everyone but you takes 1 Harm, but you all get there
+6-  You arrive stunned for a moment, and all of you take 2 Harm, ignoring armor
+EndOutcomes
+Choices
+EndMove
+Swipe Left
+Roll 2d6 + Prowess to fling a small group of enemies out of your way. Collateral damage isn't just a philosophy, it's a way of life! GIFTED: If you have an Epic Weapon, you may choose one option from SMITE YOUR ENEMIES
+Roll 2 6 Prowess
+10+ Deal 2 Harm to everyone in the group, knocking them prone
+7-9 You knock them prone but they're unharmed
+EndOutcomes
+Choices
+EndMove
+Tangles
+You are fascinated by [     ]'s charismatic way with people
+[     ]'s manner is a complete mystery to you
+You accidentally injured [     ] with your element
+You got close to [     ] but it fell apart after a misunderstanding
+You rely on [     ] to be your "elemental whisperer", clarifying for you when you're not making sense
+You've tussled with [      ]  and respect their abilities
+Advancements
+1 Take +1 Prowess (max +3)
+2 Take +1 Mettle (max +2)
+2 Take +1 Awe (max +2)
+2 Take +1 Judgement (max +1)
+2 Take +1 Wyrd (max +2)
+1 Choose a new Gift from any playbook
+1 Take another move from your playbook
+1 Take another move from your playbook
+1 Take a move from another playbook
+1 Take a move from another playbook
+1 Take an Epic Shield
+FurtherAdvancements
+1 Take +1 Prowess (max +4)
+1 Creatures that should be immune to your element are not immune while you wield it
+1 Change your playbook to a new one, keeping Gifts, and replacing moves 1-for-1
+1 Advance three basic moves to Godlike status
+1 Advance the other two basic moves to Godlike status
+GainAThread
+Cause collateral damage
+Say something awkward
+Put your element on display
+Describe your element in wonder
+E0F

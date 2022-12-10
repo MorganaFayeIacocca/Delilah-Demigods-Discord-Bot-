@@ -1,0 +1,121 @@
+Trickster
+In most cultures, Tricksters are teachers and guides. Whether your parent was someone like Coyote, Loki, or Arohirohi, you advise, hint, and cajole to bring these mortals enlightenment. Tricksters are not always funny gods, but you do see the world differently from most everybody else. You will do almost whatever it takes to achieve your goals. This is lucky when your friends want the same things you do, and awkward when they don't.
+Bait and Switch
+Why would you ever want to be the center of attention? Your Ascendance move lets you use someone else's Ascendance. You can either mimic it and control it yourself, or let someone else use theirs on your dime. Wouldn't it be a shame if the wrong person was blamed?
+Roll 0 0 0
+EndOutcomes
+Choices Consequences
+Consequences
+Fate's Disfavor on PIERCE THE VEIL
+Reduce max Harm to 6 boxes
+Move Harm penalty to 3 Harm
+Reduce your lowest attribute by one
+Take Fate's Disfavor to SWAY mortals
+EndMove
+Even Now
+While you are dead, your shade in the mortal world is deftly able to annoy people. Sometimes your actions might even be construed as helpful. Tie shoelaces together, swing the door the wrong way, catch a gun in its holster. You put the heist in poltergeist.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Prowess  0
+Mettle 0
+Awe 1
+Judgement -1
+Wyrd 2
+Items
+Animal Form (harmless) Description: None
+Epic Armor Description: None
+Epic Steed Description: None
+Epic Weapon Description: None
+Magical Resistance Description: None
+Mimicry Description: None
+Prestidigitation Description: None
+Puzzle Device Description: None
+Silver Tongue Description: None
+Moves
+#OutfitOfTheDay
+You're always dressed and styled the way you want to be. Your hair, makeup, and clothes morph to be perfect for the given occasion. Casual or formal is up to you. If you try to mimic a recognizable uniform or outfit, it will look mostly convincing, but aways be slightly off in some small detail. GIFTED: If you have Mimicry, you may use this ability to resemble a specific person and their outfit
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Fake News
+When telling half-truths or out-right lies take a +1 to SWAY SOMEONE. GIFTED: If you have a silver tongue, roll with Fate's Favor instead of the +1
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Larceny
+Take +1 when rolling PERFORM UNDER PRESSURE to sneak, pick locks, or generally get away with something you shouldn't be doing. GIFTED: If you have Prestidigitation, roll with Wyrd instead of the +1
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Location, Location, Location
+Perform a small ritual to travel instantly to any person or place you know. Describe the ritual, such as drinking tea, three running strides, clicking your heels together, or doing something along those lines.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Nothing To See Here
+When leaving the scene of your own hijinks, people don't notice you. You're not invisible, but everyone seems to have bigger things on their minds. GIFTED: If you are in Animal Form, take a souvenir with you. It's usefulness will be clear later
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Oh You Mean This Gate Key
+You are able to produce a small object which is useful in the immediate situation, but is not 100% correct, and only works once. For example, a key which opens the door, but jams the lock, an ID badge that works if you don't look too closely, or a swipe card thatgoes blank after use. GIFTED: If you have a Puzzle Box, the object works perfectly the first time, no glitches. The object can be used two more times after that, but no promises on the result. Roll PERFORM UNDER PRESSURE when you use it again.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Takes One to Know One
+Roll Wyrd instead of Judgement to PIERCE THE VEIL with a person
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+The Hard Way
+When you present a course of action to your Weave, you don't need to roll SWAY SOMEONE. Each member can choose to take 1 Harm (ignoring armor) to receive +1 ongoing while pursuing your plan. That Harm can't be healed until you sleep, which also ends the +1 ongoing. SPINDLE: if you present your course of action at the Spindle, you can choose to take 2 Harm, ignoring armor, to provide the +1 ongoing. This is in place of the 1 Harm each member would take. It can't be healed until you sleep. 
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+What's That Over There
+You may use Awe instead of Prowess to SMITE YOUR ENEMIES, but you can't choose Exchange Harm if you do.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Tangles
+[     ] caught you in a lie one time and earned your respect
+You and [     ] pulled a hellish prank that one time. Will it comeback to bite you?
+You can't resist pushing [      ]'s buttons
+You ticked off [        ]'s pantheon but they don't know it was you
+[        ] will make an excellent shield when the trouble finally comes down
+It seems like [       ] understands why you do what you do. You'll have to keep an eye on them
+Advancements
+2 Take +1 Prowess (max +2)
+2 Take +1 Mettle (max +2)
+2 Take +1 Awe (max +2)
+2 Take +1 Judgement (max +1)
+1 Take +1 Wyrd (max +3)
+1 Choose a new Gift from any playbook
+1 Take another move from your playbook
+1 Take another move from your playbook
+1 Take a move from another playbook
+1 Take a move from another playbook
+1 Take #Blessed from the Muse playbook
+FurtherAdvancements
+1 Take +1 Wyrd (max +4)
+1 Take Cantrips from the Arcane playbook
+1 Change your playbook to a new one, keeping Gifts, and replacing moves 1-for-1
+1 Advance three basic moves to Godlike status
+1 Advance the other two basic moves to Godlike status
+GainAThread
+Trick someone
+Cause a distraction
+Tell an unnecessary lie
+Teach someone a lesson
+E0F

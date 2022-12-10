@@ -1,0 +1,67 @@
+<@!DISCORD ID HERE> <@DISCORD ID HERE>
+Crescendo (Cress) Ward
+He/Him
+Hermes
+Greek
+https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f03e96e-af27-444e-835c-3a1de2b5abee/dcfoklk-9387d692-7b91-42c3-b883-a08a209c7ed3.jpg/v1/fill/w_746,h_1072,q_70,strp/3_by_annahelme_dcfoklk-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ3MiIsInBhdGgiOiJcL2ZcLzNmMDNlOTZlLWFmMjctNDQ0ZS04MzVjLTNhMWRlMmI1YWJlZVwvZGNmb2tsay05Mzg3ZDY5Mi03YjkxLTQyYzMtYjg4My1hMDhhMjA5YzdlZDMuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.nHCkgploSOFBJ1oLfcPA-kEKujGivldJonhyv3yL710
+0
+0
+4
+1
+Warrior
+Prowess 3
+Mettle 1
+Awe 1
+Judgement 0
+Wyrd 0
+Godlikes
+Items
+Divine Might Description: Jump vertically 20 feet or horizontally 40 feet
+Epic Melee Weapon Description: Two handed polearm that doubles as a long jump pole. Deals 4 Harm!
+Sigil Of Command Description: Stick-n-poke tattoo on the back of his hand/wrist
+Moves
+Unstoppable
+Once you start moving, few mortal barriers will stop your momentum. Usually you wont need to roll for this, unless the Herald deems the barrier exceptionally reinforced. In that case, roll 2d6+Prowess. GIFTED: If you have Divine Might, you can charge through most supernatural barriers too
+Roll 2 6 Prowess
+10+ Break on through to the other side
+7-9 You break down the barrier, but take 2 Harm, ignoring armor
+6-  Choose:: Take 2 Harm, physically and to your pride as you bounce off. OR. Take 4 Harm and blast through. In either case, the Harm ignores your armor
+EndOutcomes
+Choices
+EndMove
+To The Death
+Challenge someone to a duel. If they accept, you are mystically bound to fight one-on-one until one of you surrenders, dies, or someone interferes with the fight.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Iron Heart
+You have 2 additional Harm boxes at the front of your Harm track. Always mark these boxes first. You can take 5 Harm before taking -1 to all rolls. If you get to 9 Harm you die as usual. GIFTED: If you have an Epic Shield you can choose to lose the shield for the rest of this fight (you'll find it later) to ignore all of the Harm from one attack
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Polyarmory
+Nearly anything is a deadly weapon in your hands. An oar, a playing card, a sturdy towel--you name it and its dangerous. The object you pick up won't last long for how you're using it, but it'll go out in a blaze of glory and you can grab something new. Deal 3 Harm with almost any physical object. GIFTED: If you have Epic Weapon (Melee for up close or Ranged for thrown objects) anything you pick up will deal 4 Harm
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Conditions
+TangleTable
+Liz 2
+Kat 1
+Melissa 1
+Jor 1
+Tangles
+You accidentally injured Jor with your weapon. Almost killing them and trying to earn their trust and break through the tension. 
+You find Melissa's impulsiveness to be off-putting.
+You have a friendly rivalry with Liz, always trying to one-up each other
+You've never actually seen Kat fight. Can you trust them? What are they going to do, drink their way out of a fight?
+You feel yourself drawn to Liz. You're a little afraid of them but are drawn to the power that they have. (Hot).
+Backstory
+Describe your mortal family: BeginText Delaney:Trapeze act and Cress' main teacher, father figure. Died when Cress had just been going to the camp for 1 year. Ronin" Sword swallower. Part of Cress' troupe family, helped teach his schooling. Fran: Mother. Very sweet, stubborn, taught Cress everything and most of his schooling
+Description
+Appearance: BeginText 6'1, athletic build but on the more petite side. White passing.
+Personality: BeginText Strong-willed, perseverant, tsundere. Has never been in a (romantic/sexual) relationship before
+E0F

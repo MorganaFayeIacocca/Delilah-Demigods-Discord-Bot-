@@ -1,0 +1,129 @@
+Muse
+The talent producers, the too-smooth seducers, the ones who take home anyone but losers; You make everyone look good, especially yourself. The kingmaker, the shot taker, you invented top shelf
+Content Creator
+You reach into the hearts of everyone present and lay bare their emotions. While they experience perfect empathy, you can see each person's greatest desire or goal. Choose one of them and will it into being - a great play, a painting - you make it real.
+Roll 0 0 0
+EndOutcomes
+Choices Consequences
+Consequences
+Mortals flock to you for autographs
+Reduce max Harm to 6 boxes
+Move Harm penalty to 3 Harm
+Reduce your lowest attribute by one
+Take Fate's Disfavor to SWAY mortals
+EndMove
+Exquisite Corpse
+While you are dead, your shade in the mortal world can still use the PROVIDE AID move, but without any of the benefits your playbook may provide
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Prowess -1
+Mettle 0 
+Awe 2
+Judgement 0
+Wyrd 1
+Items
+Aura of Inspiration Description: None
+Celebrity Description: None
+Divine Charm Description: None
+Epic Armor Description: None
+Epic Instrument Description: None
+Epic Steed Description: None
+Epic Weapon Description: None
+Perfect Focus Description: None
+Wealth Description: None
+Moves
+#Blessed
+Things just work out for you. There's always a parking spot right out front, a tabel ready, and your name is definitely on the VIP list. If there's a mortal inconvenience in the narrative, let the Herald know how it works itself out. Any attack that only deals 1 Harm (before armor) misses you every time.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Entourage
+You have a group of loyal staff. Describe whether these four or five people are actually your friends, or just employees. They know your industry well and can get a lot done for you. GIFTED: If you have Wealth and/or Celebrity this group is a small business of 20-30 people. If you have both, it's more like 50. 
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Fascinate
+Roll 2d6+Awe when making eye contact with a mortal to create a minor hypnotic effect.
+Roll 2 6 Awe
+10+ You can look away and move around. They remain still, watching you. It ends if you break line of sight or anyone touches them
+7-9 You must maintain eye contact, but they can't move or look away unless someone touches them
+EndOutcomes
+Choices
+EndMove
+Influencer
+You can roll SWAY SOMEONE when speaking to an audience, even through mass media. This does not work with text or still images though, only video can convey your power
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Protege
+You've taken a mortal under your wing. You help them with their career, and they would do almost anything for you. If they die, move on, or lose faith in you, cross out this move and take an advancement.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Short Skirt, Long Jacket
+Roll 2d6+Wyrd to blend into nearly any social environment
+Roll 2 6 Wyrd
+10+ Employees assume you work there, partygoers remember meeting you somewhere. You definitely belong here.
+7-9 You'll need to pick up some slack. Describe what you do to make it look like you belong here
+6-  You're dragged into some drama or obligation unless you want to blow your cover
+EndOutcomes
+Choices
+EndMove
+The "I" In Team
+You may roll Awe instead of Tangles when using the PROVIDE AID move. If you do, on a hit they get an additional +1 on top of the AID result. GIFTED: If you have Aura of Inspiration, they gain a Thread on any hit, not just 10+.
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Turn It Up
+Any party or performance you take part in is cranked up to elevent. Food and drink doesn't run out until the scene ends. If you want to ward the party against violence, roll 2d6+Wyrd. You can only ward a particular party once. GIFTED: If you have an Epic Instrument, yoou can make an ad-hoc party almost anywhere with just a few people if they're into it. SPINDLE: If you ward a party at the Spindle, treat a 6- like a 7-9, and a 7-9 like a 10+
+Roll 2 6 Wyrd
+10+ No one can commit violence at the party until you leave, or for the duration of the scene
+7-9 You can quell an immediate danger or fight, but it won't last
+EndOutcomes
+Choices
+EndMove
+Woke Up Like This
+Take a +1 when you roll to SWAY SOMEONE. GIFTED: If you have Divine Charm, roll with Fate's Favor, instead of the +1
+Roll 0 0 0
+EndOutcomes
+Choices
+EndMove
+Tangles
+[     ] would be a hit at parties if they'd just listen to your advice
+You've made out with [    ]  but there's no real connection there
+[     ] knows about that thing you did, that one time
+[     ]'s cynical outlook is exhausting for you
+You learned about [      ]'s greatest ambition. Are you encouraging them to follow up on it?
+[     ] is your best friend and keeps you level when you get full of yourself
+Advancements
+2 Take +1 Prowess (max +1)
+2 Take +1 Mettle (max +2)
+1 Take +1 Awe (max +3)
+2 Take +1 Judgement (max +2)
+2 Take +1 Wyrd (max +2)
+1 Choose a new Gift from any playbook
+1 Take another move from your playbook
+1 Take another move from your playbook
+1 Take a move from another playbook
+1 Take a move from another playbook
+1 Take on a mortal protege/assistant devoted to you
+1 Take #OutfitOfTheDay from the Tricktser playbook
+FurtherAdvancements
+1 Take +1 Awe (max +4)
+1 Take the Celebrity and/or Wealth Gifts, if you don't have them already
+1 Change your playbook to a new one, keeping Gifts, and replacing moves 1-for-1
+1 Advance three basic moves to Godlike status
+1 Advance the other two basic moves to Godlike status
+GainAThread
+Throw a party
+Take the spotlight
+Urge someone to greatness
+Help someone accomplish a goal
+E0F
